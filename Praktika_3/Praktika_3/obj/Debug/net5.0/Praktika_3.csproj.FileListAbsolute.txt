@@ -1,0 +1,15 @@
+C:\Users\SENAN\source\repos\Praktika_3\Praktika_3\obj\Debug\net5.0\Praktika_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAN\source\repos\Praktika_3\Praktika_3\obj\Debug\net5.0\Praktika_3.AssemblyInfoInputs.cache
+C:\Users\SENAN\source\repos\Praktika_3\Praktika_3\obj\Debug\net5.0\Praktika_3.AssemblyInfo.cs
+C:\Users\SENAN\source\repos\Praktika_3\Praktika_3\obj\Debug\net5.0\Praktika_3.csproj.CoreCompileInputs.cache
+C:\Users\SENAN\source\repos\Praktika_3\Praktika_3\bin\Debug\net5.0\Praktika_3.exe
+C:\Users\SENAN\source\repos\Praktika_3\Praktika_3\bin\Debug\net5.0\Praktika_3.deps.json
+C:\Users\SENAN\source\repos\Praktika_3\Praktika_3\bin\Debug\net5.0\Praktika_3.runtimeconfig.json
+C:\Users\SENAN\source\repos\Praktika_3\Praktika_3\bin\Debug\net5.0\Praktika_3.runtimeconfig.dev.json
+C:\Users\SENAN\source\repos\Praktika_3\Praktika_3\bin\Debug\net5.0\Praktika_3.dll
+C:\Users\SENAN\source\repos\Praktika_3\Praktika_3\bin\Debug\net5.0\Praktika_3.pdb
+C:\Users\SENAN\source\repos\Praktika_3\Praktika_3\obj\Debug\net5.0\Praktika_3.dll
+C:\Users\SENAN\source\repos\Praktika_3\Praktika_3\obj\Debug\net5.0\refint\Praktika_3.dll
+C:\Users\SENAN\source\repos\Praktika_3\Praktika_3\obj\Debug\net5.0\Praktika_3.pdb
+C:\Users\SENAN\source\repos\Praktika_3\Praktika_3\obj\Debug\net5.0\Praktika_3.genruntimeconfig.cache
+C:\Users\SENAN\source\repos\Praktika_3\Praktika_3\obj\Debug\net5.0\ref\Praktika_3.dll

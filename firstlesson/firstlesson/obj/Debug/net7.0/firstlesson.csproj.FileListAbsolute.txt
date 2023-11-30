@@ -1,0 +1,14 @@
+C:\Users\SENAN\source\repos\firstlesson\firstlesson\obj\Debug\net7.0\firstlesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAN\source\repos\firstlesson\firstlesson\obj\Debug\net7.0\firstlesson.AssemblyInfoInputs.cache
+C:\Users\SENAN\source\repos\firstlesson\firstlesson\obj\Debug\net7.0\firstlesson.AssemblyInfo.cs
+C:\Users\SENAN\source\repos\firstlesson\firstlesson\obj\Debug\net7.0\firstlesson.csproj.CoreCompileInputs.cache
+C:\Users\SENAN\source\repos\firstlesson\firstlesson\bin\Debug\net7.0\firstlesson.exe
+C:\Users\SENAN\source\repos\firstlesson\firstlesson\bin\Debug\net7.0\firstlesson.deps.json
+C:\Users\SENAN\source\repos\firstlesson\firstlesson\bin\Debug\net7.0\firstlesson.runtimeconfig.json
+C:\Users\SENAN\source\repos\firstlesson\firstlesson\bin\Debug\net7.0\firstlesson.dll
+C:\Users\SENAN\source\repos\firstlesson\firstlesson\bin\Debug\net7.0\firstlesson.pdb
+C:\Users\SENAN\source\repos\firstlesson\firstlesson\obj\Debug\net7.0\firstlesson.dll
+C:\Users\SENAN\source\repos\firstlesson\firstlesson\obj\Debug\net7.0\refint\firstlesson.dll
+C:\Users\SENAN\source\repos\firstlesson\firstlesson\obj\Debug\net7.0\firstlesson.pdb
+C:\Users\SENAN\source\repos\firstlesson\firstlesson\obj\Debug\net7.0\firstlesson.genruntimeconfig.cache
+C:\Users\SENAN\source\repos\firstlesson\firstlesson\obj\Debug\net7.0\ref\firstlesson.dll

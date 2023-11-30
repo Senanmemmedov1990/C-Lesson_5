@@ -1,0 +1,8 @@
+C:\Users\SENAN\source\repos\Test_2\Test_2\bin\Debug\net5.0\Test_2.exe
+C:\Users\SENAN\source\repos\Test_2\Test_2\obj\Debug\net5.0\Test_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAN\source\repos\Test_2\Test_2\obj\Debug\net5.0\Test_2.AssemblyInfoInputs.cache
+C:\Users\SENAN\source\repos\Test_2\Test_2\obj\Debug\net5.0\Test_2.AssemblyInfo.cs
+C:\Users\SENAN\source\repos\Test_2\Test_2\obj\Debug\net5.0\Test_2.csproj.CoreCompileInputs.cache
+C:\Users\SENAN\source\repos\Test_2\Test_2\obj\Debug\net5.0\Test_2.dll
+C:\Users\SENAN\source\repos\Test_2\Test_2\obj\Debug\net5.0\refint\Test_2.dll
+C:\Users\SENAN\source\repos\Test_2\Test_2\obj\Debug\net5.0\Test_2.pdb

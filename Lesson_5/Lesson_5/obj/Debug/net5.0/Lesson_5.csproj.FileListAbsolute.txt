@@ -1,0 +1,15 @@
+C:\Users\SENAN\source\repos\Lesson_5\Lesson_5\bin\Debug\net5.0\Lesson_5.exe
+C:\Users\SENAN\source\repos\Lesson_5\Lesson_5\bin\Debug\net5.0\Lesson_5.deps.json
+C:\Users\SENAN\source\repos\Lesson_5\Lesson_5\bin\Debug\net5.0\Lesson_5.runtimeconfig.json
+C:\Users\SENAN\source\repos\Lesson_5\Lesson_5\bin\Debug\net5.0\Lesson_5.runtimeconfig.dev.json
+C:\Users\SENAN\source\repos\Lesson_5\Lesson_5\bin\Debug\net5.0\Lesson_5.dll
+C:\Users\SENAN\source\repos\Lesson_5\Lesson_5\bin\Debug\net5.0\Lesson_5.pdb
+C:\Users\SENAN\source\repos\Lesson_5\Lesson_5\obj\Debug\net5.0\Lesson_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAN\source\repos\Lesson_5\Lesson_5\obj\Debug\net5.0\Lesson_5.AssemblyInfoInputs.cache
+C:\Users\SENAN\source\repos\Lesson_5\Lesson_5\obj\Debug\net5.0\Lesson_5.AssemblyInfo.cs
+C:\Users\SENAN\source\repos\Lesson_5\Lesson_5\obj\Debug\net5.0\Lesson_5.csproj.CoreCompileInputs.cache
+C:\Users\SENAN\source\repos\Lesson_5\Lesson_5\obj\Debug\net5.0\Lesson_5.dll
+C:\Users\SENAN\source\repos\Lesson_5\Lesson_5\obj\Debug\net5.0\refint\Lesson_5.dll
+C:\Users\SENAN\source\repos\Lesson_5\Lesson_5\obj\Debug\net5.0\Lesson_5.pdb
+C:\Users\SENAN\source\repos\Lesson_5\Lesson_5\obj\Debug\net5.0\Lesson_5.genruntimeconfig.cache
+C:\Users\SENAN\source\repos\Lesson_5\Lesson_5\obj\Debug\net5.0\ref\Lesson_5.dll

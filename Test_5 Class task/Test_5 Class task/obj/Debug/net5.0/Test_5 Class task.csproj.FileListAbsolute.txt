@@ -1,0 +1,15 @@
+C:\Users\SENAN\source\repos\Test_5 Class task\Test_5 Class task\bin\Debug\net5.0\Test_5 Class task.exe
+C:\Users\SENAN\source\repos\Test_5 Class task\Test_5 Class task\bin\Debug\net5.0\Test_5 Class task.deps.json
+C:\Users\SENAN\source\repos\Test_5 Class task\Test_5 Class task\bin\Debug\net5.0\Test_5 Class task.runtimeconfig.json
+C:\Users\SENAN\source\repos\Test_5 Class task\Test_5 Class task\bin\Debug\net5.0\Test_5 Class task.runtimeconfig.dev.json
+C:\Users\SENAN\source\repos\Test_5 Class task\Test_5 Class task\bin\Debug\net5.0\Test_5 Class task.dll
+C:\Users\SENAN\source\repos\Test_5 Class task\Test_5 Class task\bin\Debug\net5.0\Test_5 Class task.pdb
+C:\Users\SENAN\source\repos\Test_5 Class task\Test_5 Class task\obj\Debug\net5.0\Test_5 Class task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAN\source\repos\Test_5 Class task\Test_5 Class task\obj\Debug\net5.0\Test_5 Class task.AssemblyInfoInputs.cache
+C:\Users\SENAN\source\repos\Test_5 Class task\Test_5 Class task\obj\Debug\net5.0\Test_5 Class task.AssemblyInfo.cs
+C:\Users\SENAN\source\repos\Test_5 Class task\Test_5 Class task\obj\Debug\net5.0\Test_5 Class task.csproj.CoreCompileInputs.cache
+C:\Users\SENAN\source\repos\Test_5 Class task\Test_5 Class task\obj\Debug\net5.0\Test_5 Class task.dll
+C:\Users\SENAN\source\repos\Test_5 Class task\Test_5 Class task\obj\Debug\net5.0\refint\Test_5 Class task.dll
+C:\Users\SENAN\source\repos\Test_5 Class task\Test_5 Class task\obj\Debug\net5.0\Test_5 Class task.pdb
+C:\Users\SENAN\source\repos\Test_5 Class task\Test_5 Class task\obj\Debug\net5.0\Test_5 Class task.genruntimeconfig.cache
+C:\Users\SENAN\source\repos\Test_5 Class task\Test_5 Class task\obj\Debug\net5.0\ref\Test_5 Class task.dll
